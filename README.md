@@ -1,6 +1,6 @@
 Exercise from [The Odin Project](https://www.theodinproject.com/lessons/ruby-knights-travails)
 
-Script to output the path a knight in chess would make to reach it's destination
+Script to output the path a knight in chess would make to reach it's destination.
 
 Hardest exercise I've done until now, I had a hard time wrapping my head around graphs and its similarities to a binary tree, tried
 implementing an undirected graph but soon found out that would be a headache to deal with, so instead I used a directed graph and
